@@ -1,4 +1,4 @@
-fun main(args: Array<String>){
+fun main(Array<String>){
     val a = 5;
     val d = 10;
     val sum = (a + d) * (d - a)
